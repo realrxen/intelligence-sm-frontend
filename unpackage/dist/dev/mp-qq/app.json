@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/search/search",
+    "pages/index/index",
+    "pages/news/news",
+    "components/mescroll/mescroll-swiper",
+    "pages/me/me",
+    "pages/news/NewsDetail",
+    "pages/news/MoreNews/MoreNews"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "智慧管院",
+    "navigationBarBackgroundColor": "#FF0000",
+    "backgroundColor": "#FF0000",
+    "backgroundColorBottom": "#FF0000"
+  },
+  "usingComponents": {
+    "mescroll-body": "/components/mescroll-uni/mescroll-body",
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "cut-line": "/common/components/cutline",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

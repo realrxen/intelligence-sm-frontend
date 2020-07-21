@@ -1,0 +1,169 @@
+export default [{
+	"id": "1",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200313371954775798.png",
+	"pdName": "隔离不隔爱 江苏湖北两高校青年筑起防疫长城",
+	"pdPrice": 1149.00,
+	"pdSold": 648
+}, {
+	"id": "2",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200310616123832463.png",
+	"pdName": "宁夏医科大学总医院：青春战疫十二时辰",
+	"pdPrice": 89.00,
+	"pdSold": 128
+}, {
+	"id": "3",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200211326416385000.png",
+	"pdName": "战疫时刻，江苏大学温暖发“声”",
+	"pdPrice": 195.00,
+	"pdSold": 968
+}, {
+	"id": "4",
+	"pdImg": "http://qnzz.youth.cn/place/gxtw/202002/W020200218530586472549.jpg",
+	"pdName": "延安大学团员青年创作书法绘画作品为武汉加油",
+	"pdPrice": 299.00,
+	"pdSold": 85
+}, {
+	"id": "5",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200226363537651703.png",
+	"pdName": "北京科技大学师生“同上一课堂” “云”教学应对疫情",
+	"pdPrice": 1889.00,
+	"pdSold": 18
+}, {
+	"id": "6",
+	"pdImg": "http://qnzz.youth.cn/kszt/zyyxtqp/02/202003/W020200316322333044285.jpg",
+	"pdName": "团旗下汇聚青春力量——记战“疫”一线的广大团员青年",
+	"pdPrice": 70.00,
+	"pdSold": 658
+}, {
+	"id": "7",
+	"pdImg": "http://qnzz.youth.cn/kszt/zyyxtqp/02/202003/W020200317315059661935.jpg",
+	"pdName": "北大医疗队青年党员热议总书记回信：90后的荣耀！",
+	"pdPrice": 268.00,
+	"pdSold": 128
+}, {
+	"id": "8",
+	"pdImg": "http://xibu.youth.cn/tpyw/202001/W020200103536913527576.jpg",
+	"pdName": "扬州大学研支团为安置点孩子送“文化年货",
+	"pdPrice": 1149.00,
+	"pdSold": 648
+}, {
+	"id": "9",
+	"pdImg": "http://qnzz.youth.cn/kszt/zyyxtqp/09/202003/W020200315621575141432.png",
+	"pdName": "我是青年志愿者，我在疫情防控一线！",
+	"pdPrice": 252.00,
+	"pdSold": 98
+}, {
+	"id": "10",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200317303592298882.png",
+	"pdName": "是学生，也是医生！这群“95后”奋斗在战疫一线",
+	"pdPrice": 89.00,
+	"pdSold": 128
+}, {
+	"id": "11",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200313613409671570.jpg",
+	"pdName": "00后大学生用志愿服务刷新成长时速",
+	"pdPrice": 179.00,
+	"pdSold": 35
+}, {
+	"id": "12",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/yidong/images/2003/14/1947225253047608.jpg",
+	"pdName": "首次全景展现共青团战疫！请寻找自己的身影！",
+	"pdPrice": 1149.00,
+	"pdSold": 648
+}, {
+	"id": "13",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/yidong/images/2003/06/2001586643903037.jpg",
+	"pdName": "让我们沉浸其中：读首都青年战疫日记！",
+	"pdPrice": 203.00,
+	"pdSold": 87
+}, {
+	"id": "14",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/yidong/images/2003/06/2002472841341487.jpg",
+	"pdName": "90后接棒！总有一种担当不负青春",
+	"pdPrice": 152.00,
+	"pdSold": 61
+}, {
+	"id": "15",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/yidong/images/2003/06/2002134855394685.jpg",
+	"pdName": "青年突击队，为夺取双胜利冲锋！",
+	"pdPrice": 269.00,
+	"pdSold": 73
+}, {
+	"id": "16",
+	"pdImg": "http://news.youth.cn/gn/202002/W020200229333226945992.jpg",
+	"pdName": "为保障新疆医用口罩供应，这群“00”后顶上来",
+	"pdPrice": 219.00,
+	"pdSold": 13
+}, {
+	"id": "17",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/cut/NEM0_20200229_C0362589627_A1078539_content.jpg",
+	"pdName": "浙江：280万志愿者参与新冠肺炎疫情防控",
+	"pdPrice": 81.00,
+	"pdSold": 128
+}, {
+	"id": "18",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200228411070457271.jpg",
+	"pdName": "战疫团旗飘：返乡大学生团员活跃在城乡社区疫情防控一线",
+	"pdPrice": 123.00,
+	"pdSold": 77
+}, {
+	"id": "19",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200301535015614677.png",
+	"pdName": "筑起青春长城 港口青年用实际行动践行战疫初心",
+	"pdPrice": 429.00,
+	"pdSold": 36
+}, {
+	"id": "20",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200225634486567203.png",
+	"pdName": "云南团省委向湖北咸宁捐赠111万元防疫物资和善款",
+	"pdPrice": 39.00,
+	"pdSold": 61
+}, {
+	"id": "21",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/cut/NEM0_20200223_C0362571381_A1070150_content.jpg",
+	"pdName": "武汉社区里的志愿者身影",
+	"pdPrice": 69.00,
+	"pdSold": 55
+}, {
+	"id": "22",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200226370970190682.png",
+	"pdName": "战疫团旗飘 吉林“青年文明号”争当“战疫先锋号”",
+	"pdPrice": 271.00,
+	"pdSold": 19
+}, {
+	"id": "23",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200220397522328702.jpg",
+	"pdName": "志愿青春 一起战疫：战疫中的西部计划志愿者",
+	"pdPrice": 102.00,
+	"pdSold": 125
+}, {
+	"id": "24",
+	"pdImg": "http://qnzz.youth.cn/qckc/202002/W020200228357230640441.jpg",
+	"pdName": "团五河县委青年突击队助力防疫阻击战",
+	"pdPrice": 289.00,
+	"pdSold": 28
+}, {
+	"id": "25",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200305528331474124.jpg",
+	"pdName": "暖心　北京西城团区委携手爱心企业慰问战疫一线志愿者",
+	"pdPrice": 152.00,
+	"pdSold": 17
+}, {
+	"id": "26",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200311443672050520.png",
+	"pdName": "中建二局青年职工化身战疫一线“多面手",
+	"pdPrice": 99.00,
+	"pdSold": 181
+}, {
+	"id": "27",
+	"pdImg": "http://qnzz.youth.cn/qckc/202003/W020200304364831407711.jpg",
+	"pdName": "闽鄂两地团委通过线上公益网课隔空鼓劲",
+	"pdPrice": 72.00,
+	"pdSold": 66
+}, {
+	"id": "28",
+	"pdImg": "https://shareapp.cyol.com/cmsfile/cut/NEM0_20200313_C0362625622_A1097216_content.jpeg",
+	"pdName": "团浙江省委号召团员青年积极参与无偿献血",
+	"pdPrice": 92.00,
+	"pdSold": 138
+}]

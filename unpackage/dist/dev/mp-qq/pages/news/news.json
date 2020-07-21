@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "资讯",
+  "disableScroll": true,
+  "backgroundColorBottom": "#fff",
+  "usingComponents": {
+    "mescroll-item": "/components/mescroll/mescroll-swiper-item",
+    "app-tabs": "/components/mescroll/app-tabs",
+    "bottom-bar": "/components/color-ui/bottombar"
+  }
+}

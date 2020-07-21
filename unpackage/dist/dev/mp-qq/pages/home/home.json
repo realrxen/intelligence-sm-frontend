@@ -1,0 +1,11 @@
+{
+  "backgroundColorBottom": "#FF0000",
+  "usingComponents": {
+    "search-bar": "/components/color-ui/searchbar",
+    "swiper": "/components/color-ui/swpier",
+    "list": "/components/color-ui/list",
+    "block1": "/components/color-ui/oneAndTwo",
+    "news-card": "/components/color-ui/newscard",
+    "bottom-bar": "/components/color-ui/bottombar"
+  }
+}

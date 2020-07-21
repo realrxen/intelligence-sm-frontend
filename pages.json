@@ -1,0 +1,78 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+            "path" : "pages/home/home",
+            "style" : {
+				"backgroundColorBottom":"#FF0000",
+				"enablePullDownRefresh":true
+			}
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" : {
+				"navigationBarTitleText":"搜索"
+			}
+        }
+		,{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "智慧管院"
+			}
+		}
+	    
+        ,
+		{
+		    "path" : "pages/news/news",
+		    "style" : {
+				"navigationBarTitleText" : "资讯",
+				"disableScroll": true, // 禁止滚动, 解决scroll-view在Android小程序卡顿的问题
+				"backgroundColorBottom":"#fff",
+				// "enablePullDownRefresh" : false, // 不开启下拉刷新, 默认就是false
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+			}
+		},
+		{
+		    "path" : "components/mescroll/mescroll-swiper",
+		    "style" : {
+				"navigationBarTitleText" : "资讯",
+				"disableScroll": true, // 禁止滚动, 解决scroll-view在Android小程序卡顿的问题
+				"backgroundColorBottom":"#fff",
+				// "enablePullDownRefresh" : false, // 不开启下拉刷新, 默认就是false
+				"app-plus" : {
+					"bounce" : "none" // 取消iOS回弹,避免和下拉刷新冲突 (小程序无法取消)
+				}
+			}
+		}
+        ,{
+            "path" : "pages/me/me",
+            "style" : {
+				"navigationBarTitleText":""
+			}
+        },
+		{
+		    "path" : "pages/news/NewsDetail",
+		    "style" : {
+				"navigationBarTitleText":"资讯详情",
+				"backgroundColor": "#ffffff",
+				"backgroundColorBottom":"#ffffff"
+			}
+		}
+        ,{
+            "path" : "pages/news/MoreNews/MoreNews",
+            "style" : {
+				"backgroundColorBottom":"#FFFFFF",
+				"navigationStyle":"custom",
+				"backgroundColor":"#FFFFFF"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "智慧管院",
+		"navigationBarBackgroundColor": "#FF0000",
+		"backgroundColor": "#FF0000",
+		"backgroundColorBottom":"#FF0000"
+	}
+}

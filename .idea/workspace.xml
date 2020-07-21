@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8988ab2-251a-4ad5-8c01-b611a9cca0d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/goods-edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/goods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/components/cu-custom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/quill-bubble.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/quill-core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/quill-snow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/components/cutline.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/back-top/back-top.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/color-ui/bottombar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/color-ui/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/color-ui/newscard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/color-ui/oneAndTwo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/color-ui/searchbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/color-ui/swpier.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mehaotian-search-revision/mehaotian-search-revision.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/components/mescroll-down.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/components/mescroll-down.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/components/mescroll-empty.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/components/mescroll-top.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/components/mescroll-up.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/components/mescroll-up.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-body.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-body.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-mixins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-uni-option.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-uni.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-uni.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mescroll-uni.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mixins/mescroll-comp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mixins/mescroll-more-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll-uni/mixins/mescroll-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll/app-tabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll/good-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll/mescroll-swiper-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mescroll/mescroll-swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/me/me.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/news/MoreNews/MoreNews.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/news/NewsDetail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/news/NewsDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/news/news.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/search/search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/l3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/l4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/l5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/addr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/choujiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/kefu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/mingxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/momey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/quan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/renw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/sever/security.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-PersonalCenter/tuanwei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/attention_forbid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back-top/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/colorui/components/cu-custom.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/common/components/cutline.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/common/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/common/runtime.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/common/vendor.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/back-top/back-top.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/color-ui/bottombar.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/color-ui/list.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/color-ui/newscard.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/color-ui/oneAndTwo.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/color-ui/searchbar.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/color-ui/swpier.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll-uni/components/mescroll-empty.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll-uni/components/mescroll-top.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll-uni/mescroll-body.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll-uni/mescroll-uni.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll/app-tabs.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll/good-list.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll/mescroll-swiper-item.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/components/mescroll/mescroll-swiper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/home/home.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/index/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/me/me.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/news/MoreNews/MoreNews.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/news/NewsDetail.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/news/news.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-qq/pages/search/search.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/colorui/components/cu-custom.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/components/cutline.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/runtime.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/back-top/back-top.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/articlecard.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/bottombar.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/list.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/newscard.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/oneAndTwo.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/searchbar.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/color-ui/swpier.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mehaotian-search-revision/mehaotian-search-revision.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll-uni/components/mescroll-empty.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll-uni/components/mescroll-top.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll-uni/mescroll-body.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll-uni/mescroll-uni.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll/app-tabs.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll/good-list.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll/mescroll-swiper-item.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mescroll/mescroll-swiper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/home/home.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/index/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/me/me.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/news/MoreNews/MoreNews.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/news/NewsDetail.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/news/news.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/search/search.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/app.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/colorui/components/cu-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/colorui/components/cu-custom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/colorui/components/cu-custom.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/components/cutline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/components/cutline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/components/cutline.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/components/cutline.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/main.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/common/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/back-top/back-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/back-top/back-top.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/back-top/back-top.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/back-top/back-top.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/bottombar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/bottombar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/bottombar.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/bottombar.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/list.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/list.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/newscard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/newscard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/newscard.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/newscard.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/oneAndTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/oneAndTwo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/oneAndTwo.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/oneAndTwo.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/searchbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/searchbar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/searchbar.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/searchbar.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/swpier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/swpier.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/swpier.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/color-ui/swpier.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-empty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-empty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-empty.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-empty.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-top.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-top.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/components/mescroll-top.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-body.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-body.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-body.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-uni.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-uni.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-uni.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll-uni/mescroll-uni.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/app-tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/app-tabs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/app-tabs.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/app-tabs.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/good-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/good-list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/good-list.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/good-list.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/mescroll-swiper-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/mescroll-swiper-item.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/mescroll-swiper-item.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/mescroll-swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/mescroll-swiper.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/components/mescroll/mescroll-swiper.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/home/home.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/home/home.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/home/home.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/index/index.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/index/index.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/me/me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/me/me.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/me/me.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/me/me.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/MoreNews/MoreNews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/MoreNews/MoreNews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/MoreNews/MoreNews.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/MoreNews/MoreNews.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/NewsDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/NewsDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/NewsDetail.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/NewsDetail.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/news.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/news.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/news/news.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/search/search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/search/search.qml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/pages/search/search.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/l3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/l4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/l5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/addr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/choujiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/kefu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/mingxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/momey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/quan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/renw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/sever/security.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-PersonalCenter/tuanwei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-search/attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-search/attention_forbid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-search/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/HM-search/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/back-top/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-qq/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/main.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/main.wxss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bS4oZpUJYCOjilvlRGdV7PakBS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8988ab2-251a-4ad5-8c01-b611a9cca0d9" name="Default Changelist" comment="" />
+      <created>1588612336294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588612336294</updated>
+      <workItem from="1588612337432" duration="142000" />
+      <workItem from="1588612511479" duration="355000" />
+      <workItem from="1588953888235" duration="1059000" />
+      <workItem from="1594560394905" duration="3000" />
+      <workItem from="1595304368527" duration="1360000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020/7/21 1212">
+      <created>1595304794011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595304794011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020/7/21 1212">
+      <created>1595305478003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595305478003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2020/7/21 1212" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020/7/21 1212" />
+  </component>
+</project>

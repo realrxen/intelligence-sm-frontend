@@ -1,0 +1,9 @@
+{
+  "backgroundColorBottom": "#FFFFFF",
+  "navigationStyle": "custom",
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "news-card": "/components/color-ui/newscard",
+    "back-top": "/components/back-top/back-top"
+  }
+}

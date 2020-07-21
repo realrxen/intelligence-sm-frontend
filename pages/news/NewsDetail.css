@@ -1,0 +1,84 @@
+.news{
+	margin: 0 40rpx;
+	background-color: #ffffff;
+}
+.title{
+	margin-top: 20rpx;
+	font-size: 40rpx;
+}
+.news-info{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin: 20rpx 0;
+}
+.time{
+	color: #888888;
+	font-size: 28rpx;
+}
+.content{
+	font-size: 32rpx;
+	line-height: 64rpx;
+}
+
+.content-info{
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	color: #C8C8C8;
+}
+.changeRecommend{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: #C8C8C8;
+		margin-right: 20rpx;
+		font-size: 30rpx;
+}
+.change-icon{
+		margin-left: 10rpx;
+}
+.createTime{
+	position: relative;
+	font-size: 28rpx;
+	top: 20rpx;
+}	
+/* .recommendList{
+	display: flex;
+	
+}
+.recommend-cover{
+	width: 300rpx;
+	height: 150rpx;
+} */
+.attachment-text{
+	padding-top: 20rpx;
+	padding-bottom: 5rpx;
+	color:#303133;
+	
+}
+
+.attachment{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	
+	
+	
+}
+
+.attachment-item{
+	text-align: left;
+	width: 95%;
+}
+
+.attachment-item2{
+	width: 5%;
+	color: #2f86c9;
+	font-size: 28rpx;
+	white-space:nowrap;
+	margin-left: 10rpx;
+	margin-right: 5rpx;
+	text-align: right;
+}
+

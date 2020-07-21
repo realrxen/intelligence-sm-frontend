@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "bottom-bar": "/components/color-ui/bottombar"
+  }
+}
